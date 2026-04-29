@@ -5,7 +5,7 @@ destinations with structured information and easy navigation.
 
 ## Team Members
 - Vidhya - Full Stack Developer
-- Tharun - Full Stack Developer
+- Member 2 - Full Stack Developer
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
