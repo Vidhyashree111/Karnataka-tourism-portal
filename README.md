@@ -31,5 +31,5 @@ A web-based tourism portal for exploring Karnataka destinations with structured 
 
 ## Future Enhancements
 - Add online payment integration  
-- Implement user reviews and ratings  
-- Improve UI/UX design 
+- Improve UI/UX design  
+- Implement advanced search and filters  
